@@ -10,7 +10,7 @@ services:
     depends_on:
       - postgresql
       - redis
-    working_dir: /home/user/vaga-dev-sr
+    working_dir: /home/user/technical_challenge_01
     environment:
       BINDING: 0.0.0.0
       PORT: 3000
@@ -28,7 +28,7 @@ services:
       - ~/.gitconfig:/home/user/.gitconfig
       - ~/.bash_history:/home/user/.bash_history
       - ~/.aws:/home/user/.aws
-      - .:/home/user/vaga-dev-sr
+      - .:/home/user/technical_challenge_01
   postgresql:
     image: postgres:14.2
     environment:

@@ -1,7 +1,7 @@
 {
   "name": "git_jmd",
   "version": "1.0.0",
-  "description": "## AWS Resoucers",
+  "description": "Technical Challenge 01",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juniormesquitadandao/vaga-dev-sr.git"
+    "url": "git+https://github.com/juniormesquitadandao/technical_challenge_01.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juniormesquitadandao/vaga-dev-sr/issues"
+    "url": "https://github.com/juniormesquitadandao/technical_challenge_01/issues"
   },
-  "homepage": "https://github.com/juniormesquitadandao/vaga-dev-sr#readme",
+  "homepage": "https://github.com/juniormesquitadandao/technical_challenge_01#readme",
   "dependencies": {
     "@babel/polyfill": "7.12.1",
     "axios": "0.27.2",

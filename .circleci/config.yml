@@ -18,7 +18,7 @@ executors:
 
 jobs:
   ci_job:
-    working_directory: ~/vaga-dev-sr
+    working_directory: ~/technical_challenge_01
     executor: docker-executor
     steps:
       - checkout

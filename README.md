@@ -1,6 +1,6 @@
 # GitJMD
 
-![Modeling](https://raw.githubusercontent.com/juniormesquitadandao/vaga-dev-sr/master/architecture/modeling.png)
+![Modeling](https://raw.githubusercontent.com/juniormesquitadandao/technical_challenge_01/master/architecture/modeling.png)
 
 ## Technical Challenge 01
 
