@@ -4,7 +4,7 @@
 
 ## Architecture
 
-GitHub -> Docker -> Docker Compose -> Linux -> PostgreSQL -> Redis -> Ruby -> RoR -> Rspec -> Sideikq -> Rubocop -> Circle CI -> GitHub Webhooks -> AWS (IAM -> CloudWatch -> Codebuild -> CLI -> ECR -> ECS -> ASG -> EC2 -> VPC -> PS -> IG -> SG -> TG -> ALB -> Cloudfront -> R53 -> ACM -> RDS PostgreSQL -> ElastiCache Redis)
+GitHub -> Docker -> Docker Compose -> Linux -> PostgreSQL -> Redis -> Ruby -> RoR -> GitHub API -> Rspec -> Sideikq -> Rubocop -> Circle CI -> GitHub Webhooks -> AWS (IAM -> CloudWatch -> Codebuild -> CLI -> ECR -> ECS -> ASG -> EC2 -> VPC -> PS -> IG -> SG -> TG -> ALB -> Cloudfront -> R53 -> ACM -> RDS PostgreSQL -> ElastiCache Redis)
 
 ## Setup
 
