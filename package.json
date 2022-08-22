@@ -1,0 +1,29 @@
+{
+  "name": "git_jmd",
+  "version": "1.0.0",
+  "description": "Technical Challenge 01",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniormesquitadandao/technical_challenge_01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniormesquitadandao/technical_challenge_01/issues"
+  },
+  "homepage": "https://github.com/juniormesquitadandao/technical_challenge_01#readme",
+  "dependencies": {
+    "@babel/polyfill": "7.12.1",
+    "axios": "0.27.2",
+    "domurl": "^2.3.4",
+    "turbolinks": "5.2.0",
+    "vue": "2.7.0"
+  }
+}
